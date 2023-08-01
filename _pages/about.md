@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites" 
+title: "Home" 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- Yuqi Song joined the Computer Science Department at the University of Southern Maine in August 2023. She got her Ph.D. in Computer Science from the University of South Carolina in August 2023, under the supervision of [Dr. Jianjun Hu](https://www.cse.sc.edu/~jianjunh/). She got the M.S. and B.S. from Chongqing University with the supervision of [Dr. Ming Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm). 
+ Yuqi Song joined the Computer Science Department at the University of Southern Maine in August 2023. She got her Ph.D. in Computer Science from the University of South Carolina in August 2023, under the supervision of [Dr. Jianjun Hu](https://www.cse.sc.edu/~jianjunh/). She got the M.S. and B.S. from Chongqing University with the gudience of [Dr. Ming Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm). 
 
  Her research interests include deep learning, machine learning, data mining, and their applications in material informatics, health informatics, recommendation systems and image processing.
 
