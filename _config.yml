@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuqi Song / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,9 @@ analytics:
 author:
   name             : Yuqi Song
   avatar           : "yuqis.JPG"
-  bio              : "Assistant Professor in the Department of Computer Science at the University of Southern Maine"
+  bio              : "Assistant Professor \n\
+                      Department of Computer Science  \n\
+                      University of Southern Maine"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
