@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuqi Song / Ph.D."
+title                    : #"Yuqi Song / Ph.D."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : Yuqi Song
-  avatar           : "profile.png"
-  bio              : "Assistant Professor"
-  location         : "Location"
+  avatar           : "yuqi.JPG"
+  bio              : "Assistant Professor \\ Dept. of Computer Science  \\ University of Southern Maine"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en"
