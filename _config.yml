@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuqi Song"
+title                    : "Yuqi Song / Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
