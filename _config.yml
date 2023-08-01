@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Yuqi Song / Ph.D."
+title                    : "       "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : Yuqi Song
-  avatar           : "IMG_9514.JPG"
+  avatar           : "yuqi.JPG"
   bio              : "Assistant Professor \\ Dept. of Computer Science  \\ University of Southern Maine"
   location         : #"Location"
   employer         :
