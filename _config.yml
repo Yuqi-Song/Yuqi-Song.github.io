@@ -82,10 +82,8 @@ analytics:
 author:
   name             : Yuqi Song
   avatar           : "yuqis.JPG"
-  bio              : "Assistant Professor \n\
-                      Dept. of Computer Science \n\
-                      University of Southern Maine"
-  location         : #"Location"
+  bio              : "Assistant Professor in the Department of Computer Science at the University of Southern Maine"
+  location         : "Portland, Maine"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en"
