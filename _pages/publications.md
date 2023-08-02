@@ -3,3 +3,11 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
+
+## Deep Learning and Material Informatics
+
+## Image Processing
+
+## Recommender System
+
+## Shilling Detection

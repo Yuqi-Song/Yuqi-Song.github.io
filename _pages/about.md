@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "  " 
-excerpt: "About me"
+title: "Overview" 
+excerpt: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Overview
-======
 Yuqi Song joined the Computer Science Department at the University of Southern Maine in August 2023. She got her Ph.D. degree in Computer Science from the University of South Carolina in August 2023, under the supervision of [Dr. Jianjun Hu](https://www.cse.sc.edu/~jianjunh/). She got the M.S. and B.S. from Chongqing University with the gudience of [Dr. Ming Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm). You can find my CV here: [[CV]](../files/cv_yuqi_Aug_2023.pdf).
 
 Her research interests include deep learning, machine learning, data mining, and their applications in material informatics, health informatics, recommendation systems and image processing. 
@@ -21,8 +19,24 @@ Teaching
 * COS 160, Structured Problem Solving using Java, Fall 2023
 
 
-Selected Papers [[Full List](https://yuq i-song.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en)]
+Selected Papers [[Full List](https://yuqi-song.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en)]
+<i>* corresponding author</i>
 ======
+* Computational Discovery of New 2D Materials Using Deep Learning Generative Models. 
+[[Paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.1c01044) <br>
+<b>Yuqi Song</b>, Edirisuriya MD Siriwardane, Yong Zhao, and Jianjun Hu. <br>
+<i>Journal of ACS Applied Materials & Interfaces </i>, 2021. <b>IF: 10.383</b>.
+
+* Piezoelectric modulus prediction using machine learning and graph neural
+networks. 
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0009261422000264) <br>
+Jeffrey Hu and <b> Yuqi Song* </b> <br>
+<i>Journal of Chemical Physics Letters </i>, 2022.
+
+* Machine learning based prediction of noncentrosymmetric crystal materials. 
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0927025620302834) <br>
+<b>Yuqi Song <b>, Joseph Lindsay, Yong Zhao, Alireza Nasiri, Steph-Yves Louis, Jie Ling, Ming Hu, and Jianjun Hu. <br>
+<i>Journal of Computational Materials Science </i>, 2020.
 
 
 
