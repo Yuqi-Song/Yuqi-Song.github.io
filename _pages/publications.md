@@ -9,20 +9,20 @@ author_profile: true
 * Material transformers: deep learning language models for
 generative materials design.<br>
 Nihang Fu, Lai Wei, <b>Yuqi Song</b>, et al. <br>
-<i>Journal of Machine Learning: Science and Technology</i>, 2023.[[Paper]](https://iopscience.iop.org/article/10.1088/2632-2153/acadcd/pdf)
+<i>Journal of Machine Learning: Science and Technology</i>, 2023. [[Paper]](https://iopscience.iop.org/article/10.1088/2632-2153/acadcd/pdf)
 
 
 * Deep Learning-Based Prediction of Contact Maps and Crystal Structures of Inorganic Materials.<br>
 Jianjun Hu, Yong Zhao, Qin Li, <b>Yuqi Song</b>, et al. <br>
-<i>Journal of ACS Omega</i>, 2023.[[Paper]](https://pubs.acs.org/doi/epdf/10.1021/acsomega.3c02115)
+<i>Journal of ACS Omega</i>, 2023. [[Paper]](https://pubs.acs.org/doi/epdf/10.1021/acsomega.3c02115)
 
 * MaterialsAtlas. org: a materials informatics web app platform for materials discovery and survey of state-of-the-art.<br>
 Jianjun Hu, Stan Stef, <b>Yuqi Song</b>, et al. <br>
-<i>Journal of npj Computational Materials</i>, 2023. <b>IF: 12.256</b>.[[Paper]](https://www.nature.com/articles/s41524-022-00750-6)
+<i>Journal of npj Computational Materials</i>, 2023. <b>IF: 12.256</b>. [[Paper]](https://www.nature.com/articles/s41524-022-00750-6)
 
 * DeepXRD, a Deep Learning Model for Predicting of XRD spectrum from Materials Composition.<br>
 Rongzhi Dong, Yong Zhao, <b>Yuqi Song</b>, et al. <br>
-<i>Journal of ACS Applied Materials & Interfaces</i>, 2023. <b>IF: 10.383</b>.[[Paper]](https://pubs.acs.org/doi/epdf/10.1021/acsami.2c05812)
+<i>Journal of ACS Applied Materials & Interfaces</i>, 2023. <b>IF: 10.383</b>. [[Paper]](https://pubs.acs.org/doi/epdf/10.1021/acsami.2c05812)
 
 
 * Piezoelectric modulus prediction using machine learning and graph neural networks.<br>
@@ -41,7 +41,7 @@ Yong Zhao, Mohammed Al-Fahdi, Ming Hu, Edirisuriya MD Siriwardane, <b>Yuqi Song<
 
 * Active-Learning-Based Generative Design for the Discovery of Wide-Band-Gap Materials.<br>
 Rui Xin, Edirisuriya MD Siriwardane, <b>Yuqi Song</b>, et al. <br>
-<i>Journal of Physical Chemistry C</i>, 2021.[[Paper]](https://pubs.acs.org/doi/epdf/10.1021/acs.jpcc.1c02438)
+<i>Journal of Physical Chemistry C</i>, 2021. [[Paper]](https://pubs.acs.org/doi/epdf/10.1021/acs.jpcc.1c02438)
 
 * Machine learning based prediction of noncentrosymmetric crystal materials.<br>
 <b> Yuqi Song</b>, Joseph Lindsay, Yong Zhao, et al. <br>
@@ -49,21 +49,21 @@ Rui Xin, Edirisuriya MD Siriwardane, <b>Yuqi Song</b>, et al. <br>
 
 * Graph convolutional neural networks with global attention for improved materials property prediction.<br>
 Steph-Yves Louis, Yong Zhao, Alireza Nasiri, Xiran Wang, <b>Yuqi Song</b>, et al. <br>
-<i>Journal of Physical Chemistry Chemical Physics</i>, 2020.[[Paper]](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp01474e)
+<i>Journal of Physical Chemistry Chemical Physics</i>, 2020. [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp01474e)
 
 * Computational screening of new perovskite materials using transfer learning and deep learning.<br>
 Xiang Li, Yabo Dan, Rongzhi Dong, Zhuo Cao, Chengcheng Niu, <b>Yuqi Song</b>, et al. <br>
-<i>Journal of Applied Sciences</i>, 2019.[[Paper]](https://www.mdpi.com/2076-3417/9/24/5510)
+<i>Journal of Applied Sciences</i>, 2019. [[Paper]](https://www.mdpi.com/2076-3417/9/24/5510)
 
 ## Image Processing
 
 * Depth Monocular Estimation with Attention-based Encoder-Decoder Network from Single Image.<br>
 Xin Zhang, Rabab Abdelfattah, <b>Yuqi Song</b>, et al.<br>
-<i>International Conference on HPCC/DSS/SmartCity/DependSys </i>, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10074937) 
+<i>International Conference on HPCC/DSS/SmartCity/DependSys</i>, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10074937) 
 
 * An Effective Approach for Multi-label Classification with Missing Labels.<br>
 Xin Zhang, Rabab Abdelfattah, <b>Yuqi Song</b>, et al.<br>
-<i>International Conference on HPCC/DSS/SmartCity/DependSys </i>, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10074854) 
+<i>International Conference on HPCC/DSS/SmartCity/DependSys</i>, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10074854) 
 
 
 ## Recommender System
@@ -74,12 +74,12 @@ Feng Jiang, Yang Cao, Huan Wu, Xibin Wang, <b>Yuqi Song</b>, and Min Gao <br>
 
 * Nonlinear Transformation for Multiple Auxiliary Information in Music Recommendation.<br>
 Junwei Zhang, Min Gao, Junliang Yu, Xinyi Wang, <b>Yuqi Song</b>, et al.<br>
-<i>International Joint Conference on Neural Networks (IJCNN).</i>, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8851992) 
+<i>International Joint Conference on Neural Networks (IJCNN)</i>, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8851992) 
 
 
 * Social recommendation based on implicit friends discovering via meta-path.<br>
 <b>Yuqi Song</b>, Min Gao, Junliang Yu, and Qingyu Xiong <br>
-<i>International Conference on Tools with Artificial Intelligence (ICTAI).</i>, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8576037) 
+<i>International Conference on Tools with Artificial Intelligence (ICTAI)</i>, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8576037) 
 
 
 * A social recommender based on factorization and distance metric learning.<br>
@@ -90,9 +90,9 @@ Junliang Yu, Min Gao, Wenge Rong, <b>Yuqi Song</b>, et al. <br>
 
 * Detection of shilling attack based on bayesian model and user embedding.<br>
 Fan Yang, Min Gao, Junliang Yu, <b>Yuqi Song</b>, et al. <br>
-<i>International Conference on Tools with Artificial Intelligence (ICTAI).</i>, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8576100)
+<i>International Conference on Tools with Artificial Intelligence (ICTAI)</i>, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8576100)
 
 * PUED: A Social Spammer Detection Method Based on PU Learning and Ensemble Learning.<br>
 <b>Yuqi Song</b>, Min Gao, Junliang Yu, et al.<br>
-<i>International Conference, CollaborateCom.</i>, 2017. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-00916-8_14) 
+<i>International Conference, CollaborateCom</i>, 2017. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-00916-8_14) 
 
