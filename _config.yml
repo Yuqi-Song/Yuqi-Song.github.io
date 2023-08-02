@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Yuqi Song"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yuqi Song"
+description              : &description "Assistant Professor in the Department of Computer Science at the University of Southern Maine"
 url                      : https://yuqi-song.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Yuqi-Song/yuqi-song.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "yuqis.JPG"
   bio              : "Assistant Professor in the Department of Computer Science at the University of Southern Maine"
   location         : "Portland, Maine"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en"
   email            : Yuqi dot Song at maine dot com

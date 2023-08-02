@@ -21,7 +21,7 @@ Teaching
 * COS 160, Structured Problem Solving using Java, Fall 2023
 
 
-Selected Papers [[Google Scholar]](https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en)
+Selected Papers [[Full List](https://yuq i-song.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en)]
 ======
 
 
