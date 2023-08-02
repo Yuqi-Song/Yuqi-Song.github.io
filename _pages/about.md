@@ -18,24 +18,22 @@ Her research interests include deep learning, machine learning, data mining, and
 * COS 160, Structured Problem Solving using Java, Fall 2023
 
 
-# Selected Papers [[Full List](https://yuqi-song.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en)]
-<i> * corresponding author </i>
+# Selected Papers 
+[[Full List](https://yuqi-song.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en)]
+<i> * corresponding author</i>
 
-* Computational Discovery of New 2D Materials Using Deep Learning Generative Models. 
-[[Paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.1c01044) <br>
+* Computational Discovery of New 2D Materials Using Deep Learning Generative Models.[[Paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.1c01044) <br>
 <b>Yuqi Song</b>, Edirisuriya MD Siriwardane, Yong Zhao, and Jianjun Hu. <br>
-<i>Journal of ACS Applied Materials & Interfaces </i>, 2021. <b>IF: 10.383</b>.
+<i>Journal of ACS Applied Materials & Interfaces</i>, 2021. <b>IF: 10.383</b>.
 
 * Piezoelectric modulus prediction using machine learning and graph neural
-networks. 
-[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0009261422000264) <br>
+networks.[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0009261422000264) <br>
 Jeffrey Hu and <b> Yuqi Song* </b> <br>
-<i>Journal of Chemical Physics Letters </i>, 2022.
+<i>Journal of Chemical Physics Letters</i>, 2022.
 
-* Machine learning based prediction of noncentrosymmetric crystal materials. 
-[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0927025620302834) <br>
+* Machine learning based prediction of noncentrosymmetric crystal materials. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0927025620302834) <br>
 <b> Yuqi Song </b>, Joseph Lindsay, Yong Zhao, Alireza Nasiri, Steph-Yves Louis, Jie Ling, Ming Hu, and Jianjun Hu. <br>
-<i>Journal of Computational Materials Science </i>, 2020.
+<i>Journal of Computational Materials Science</i>, 2020.
 
 
 

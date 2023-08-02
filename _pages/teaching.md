@@ -4,7 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
 ## University of Southern Maine
 * COS 470, Introduction of Artificial Intelligence, Fall 2023
 * COS 160, Structured Problem Solving using Java, Fall 2023
