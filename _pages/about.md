@@ -31,7 +31,7 @@ Jeffrey Hu and <b> Yuqi Song* </b> <br>
 <i>Journal of Chemical Physics Letters</i>, 2022. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0009261422000264) 
 
 * Machine learning based prediction of noncentrosymmetric crystal materials.<br>
-<b> Yuqi Song </b>, Joseph Lindsay, Yong Zhao, Alireza Nasiri, Steph-Yves Louis, Jie Ling, Ming Hu, and Jianjun Hu. <br>
+<b> Yuqi Song</b>, Joseph Lindsay, Yong Zhao, et al. <br>
 <i>Journal of Computational Materials Science</i>, 2020. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0927025620302834) 
 
 
