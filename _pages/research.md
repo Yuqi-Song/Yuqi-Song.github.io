@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 ## Research Interests
-　
 My research interests lie in the areas of machine learning, deep learning, with a strong focus on their applications in materials informatics, image processing, and recommender systems. Recently, my work focused on using state-of-the-art deep neural network models (such as generative adversarial networks, graph neural networks, transformer language models, etc) combined with density functional theory (DFT) simulation to generate crystal structures or predict their properties. This interdisciplinary approach has shown great promise in advancing our understanding of materials and holds significant potential for real-world applications.
 
 ## Research Projects
