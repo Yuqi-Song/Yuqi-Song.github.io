@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## University of Southern Maine
+* COS 430, Software Engineering, Spring 2024
+* COS 160, Structured Problem Solving using Java, Spring 2024
 <!-- * COS 470, [Introduction of Artificial Intelligence](../_teaching/COS_470.html), Fall 2023
 * COS 160, [Structured Problem Solving using Java](../_teaching/COS_160.html), Fall 2023 -->
 * COS 470, Introduction of Artificial Intelligence, Fall 2023

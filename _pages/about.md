@@ -18,6 +18,8 @@ Her research interests include deep learning, machine learning, data mining, and
 * 2023.06: I passed my doctoral dissertation defense in Computer Science from the University of South Carolina.
 
 # Teaching
+* COS 430, Software Engineering, Spring 2024
+* COS 160, Structured Problem Solving using Java, Spring 2024
 * COS 470, Introduction of Artificial Intelligence, Fall 2023
 * COS 160, Structured Problem Solving using Java, Fall 2023
 
