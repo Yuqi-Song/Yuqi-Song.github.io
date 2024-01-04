@@ -7,7 +7,7 @@ author_profile: true
 ## Deep Learning/Machine Learning and Material Informatics
 
 * Evolutionary Machine Learning in Science and Engineering.<br>
-Jianjun Hu, <b>Yuqi Song<b>, Sadman Sadeed Omee, et al. <br>
+Jianjun Hu, <b>Yuqi Song</b>, Sadman Sadeed Omee, et al. <br>
 <i>Handbook of Evolutionary Machine Learning</i>, 2023. [[Chapter]](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_18)
 
 

@@ -12,6 +12,9 @@ Yuqi Song joined the Department of Computer Science at the University of Souther
 
 Her research interests include deep learning, machine learning, and AI across the disciplines. Such as DL/ML applications in material informatics, recommendation systems, tourism and hospitality.
 
+Welcome motivated undergraduate and graduate students with strong programming skills to join my lab. If you are interested and your research interests align with mine, please send me an email.
+
+
 # News!!
 * 2023.08: I joined the Department of Computer Science at the University of Southern Maine  as a Tenure-tracked Assistant Professor.
 * 2023.06: I passed my doctoral dissertation defense in Computer Science from the University of South Carolina.
