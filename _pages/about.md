@@ -10,10 +10,9 @@ redirect_from:
 
 Yuqi Song joined the Department of Computer Science at the University of Southern Maine (USM) in August 2023. She got her Ph.D. degree in Computer Science from the University of South Carolina in August 2023, under the supervision of [Dr. Jianjun Hu](https://www.cse.sc.edu/~jianjunh/). She got the M.S. and B.S. degrees from Chongqing University with the gudience of [Dr. Ming Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm). You can find my CV here: [[CV]](../files/cv_yuqi_Aug_2023.pdf).
 
-Her research interests include deep learning, machine learning, and AI across the disciplines. Such as DL/ML applications in material informatics, recommendation systems, tourism and hospitality.
+Her research interests include machine learning, deep learning, data mining and their applications in cross-disciplines, such as materials informatics, recommender systems, tourism and hospitality. 
 
 Welcome motivated undergraduate and master students with strong programming skills to join my lab. If you are interested and your research interests align with mine, please send me an email.
-
 
 # News!!
 * 2023.08: I joined the Department of Computer Science at the University of Southern Maine  as a Tenure-tracked Assistant Professor.
@@ -24,7 +23,6 @@ Welcome motivated undergraduate and master students with strong programming skil
 * COS 160, Structured Problem Solving using Java, Spring 2024
 * COS 470, Introduction of Artificial Intelligence, Fall 2023
 * COS 160, Structured Problem Solving using Java, Fall 2023
-
 
 # Selected Papers 
 [[Full List](https://yuqi-song.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en)] <br>
