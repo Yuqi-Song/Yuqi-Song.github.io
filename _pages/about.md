@@ -10,11 +10,10 @@ redirect_from:
 
 Yuqi Song joined the Department of Computer Science at the University of Southern Maine (USM) in August 2023. She got her Ph.D. degree in Computer Science from the University of South Carolina in August 2023, under the supervision of [Dr. Jianjun Hu](https://www.cse.sc.edu/~jianjunh/). She got the M.S. and B.S. degrees from Chongqing University with the gudience of [Dr. Ming Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm). You can find my CV here: [[CV]](../files/cv_yuqi_Aug_2023.pdf).
 
-Her research interests include deep learning, machine learning, data mining, and their applications in material informatics, health informatics, recommendation systems and image processing. 
+Her research interests include deep learning, machine learning, and AI across the disciplines. Such as DL/ML applications in material informatics, recommendation systems, tourism and hospitality.
 
 # News!!
 * 2023.08: I joined the Department of Computer Science at the University of Southern Maine  as a Tenure-tracked Assistant Professor.
-
 * 2023.06: I passed my doctoral dissertation defense in Computer Science from the University of South Carolina.
 
 # Teaching
@@ -39,9 +38,6 @@ Jeffrey Hu and <b> Yuqi Song* </b> <br>
 * Machine learning based prediction of noncentrosymmetric crystal materials.<br>
 <b> Yuqi Song</b>, Joseph Lindsay, Yong Zhao, et al. <br>
 <i>Journal of Computational Materials Science</i>, 2020. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0927025620302834) 
-
-
-
 
 
 
