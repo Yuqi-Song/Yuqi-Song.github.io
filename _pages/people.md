@@ -15,5 +15,5 @@ author_profile: true
 
 <div style="overflow: hidden;">
   <img src="/images/Reihaneh.jpg" alt="Reihaneh" style="float: left; margin-right: 400px;">
-  <p>Reihaneh is currently pursuing a Master's degree in Computer Science at the University of Southern Maine. She holds a previous Master's degree in Artificial Intelligence from AZAD University and earned her Bachelor's degree in Computer Science from Sadjad University in Iran. Her research interests include Complex Learning and Machine Learning.</p>
+  <p style="float: right;"> Reihaneh is currently pursuing a Master's degree in Computer Science at the University of Southern Maine. She holds a previous Master's degree in Artificial Intelligence from AZAD University and earned her Bachelor's degree in Computer Science from Sadjad University in Iran. Her research interests include Complex Learning and Machine Learning.</p>
 </div>
