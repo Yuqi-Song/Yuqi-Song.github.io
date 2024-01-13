@@ -10,6 +10,10 @@ author_profile: true
 Jianjun Hu, <b>Yuqi Song</b>, Sadman Sadeed Omee, et al. <br>
 <i>Handbook of Evolutionary Machine Learning</i>, 2023. [[Chapter]](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_18)
 
+* Probabilistic generative transformer language models for generative design of molecules.<br>
+Lai Wei, Nihang Fu, <b>Yuqi Song</b>, et al. <br>
+<i>Journal of Cheminformatics</i>,2023. [[Paper]](https://link.springer.com/article/10.1186/s13321-023-00759-z)
+
 
 * Material transformers: deep learning language models for
 generative materials design.<br>
