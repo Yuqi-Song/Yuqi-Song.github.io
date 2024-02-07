@@ -15,7 +15,7 @@ Her research interests include machine learning, deep learning, data mining and 
 Welcome motivated undergraduate and master students with strong programming skills to join my lab. If you are interested and your research interests align with mine, please send me an email.
 
 # News!!
-* 2023.08: I joined the Department of Computer Science at the University of Southern Maine  as a Tenure-tracked Assistant Professor.
+* 2023.08: I joined the Department of Computer Science at the University of Southern Maine  as a Tenure-track Assistant Professor.
 * 2023.06: I passed my doctoral dissertation defense in Computer Science from the University of South Carolina.
 
 # Teaching
